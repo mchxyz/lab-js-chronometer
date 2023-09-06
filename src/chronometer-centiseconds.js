@@ -12,6 +12,7 @@ class Chronometer {
   }
 
   getSeconds() {
+    fdf=
     // ... your code goes here
   }
 
